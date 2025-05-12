@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Just starting out on GitHub and learning the ropes. 
 <!--
 **johnsti1/johnsti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
